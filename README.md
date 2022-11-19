@@ -1,6 +1,7 @@
 # Password-Generator
 This project is a Java Console Application to generate Random passwords and performing a password strength check.
 Functionalities:
+
 1- Generating a Password:
 * The user must answer by Yes or No the questions to know if he desires to use Uppercase/Lowercase letters, Numbers or Symbols 
 * The user then enters the desired length of the password
